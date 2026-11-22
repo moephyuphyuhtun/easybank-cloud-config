@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to EasyBank accounts related production APIs"
+  contactDetails:
+    name: "John Doe - production"
+    email: "john@easybank.com"
+  onCallSupport:
+    - "+95 9447771243"
+    - "+95 9447771242"

@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0.0
+
+accounts:
+  message: "Welcome to EasyBank accounts related local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "{cipher}773c11e9312aadd8a1be20eba00d97caf2b57a40a741a2ebb9223774e5988630d3e197e0e0ebd3527abb6a2166cc04a1"
+  onCallSupport:
+    - "+95 9447771243"
+    - "+95 9447771242"

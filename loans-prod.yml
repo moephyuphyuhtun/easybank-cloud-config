@@ -1,0 +1,11 @@
+build:
+  version: 1.0.0
+
+loans:
+  message: "Welcome to EBank Cards Microservice prod"
+  contactDetails:
+    name: "Loans Prod Support"
+    email: "loans.prod@easybank.com"
+  onCallSupport:
+    - "+95 9447771243"
+    - "+95 9447771242"

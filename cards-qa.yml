@@ -1,0 +1,11 @@
+build:
+  version: 1.0.0
+
+cards:
+  message: "Welcome to EasyBank Cards Microservice qa APIS"
+  contactDetails:
+    name: "Cards Support"
+    email: "cards.qa@easybank.com"
+  onCallSupport:
+    - "+95 9447771243"
+    - "+95 9447771242"

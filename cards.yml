@@ -1,0 +1,11 @@
+build:
+  version: 3.0.0
+
+cards:
+  message: "Welcome to EasyBank Cards Microservice"
+  contactDetails:
+    name: "Cards Support"
+    email: "cards@easybank.com"
+  onCallSupport:
+    - "+95 9447771243"
+    - "+95 9447771242"

@@ -1,0 +1,11 @@
+build:
+  version: 2.0.0
+
+loans:
+  message: "Welcome to EasyBank Cards Microservice QA"
+  contactDetails:
+    name: "Loans QA Support"
+    email: "loans.qa@easybank.com"
+  onCallSupport:
+    - "+95 9447771243"
+    - "+95 9447771242"
